@@ -1,0 +1,6 @@
+Name=Mio Akiyama
+Image=Icon.ICO
+Voice Actor= Yoko Hikasa (JAP), Cristina Valenzuela(ENG)
+Use Language= Japanese, English
+---------------------------------------------------------------
+K-ON!! Anime Mio Akiyama Voice Japanese or English Copyright © 1992 All rights reserved
